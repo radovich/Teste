@@ -1,0 +1,21 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç B868-D014
+
+ Pasta de C:\Projetos\testeGit\Teste
+
+08/10/2019  15:02    <DIR>          .
+08/10/2019  15:02    <DIR>          ..
+08/10/2019  14:49    <DIR>          classes
+08/10/2019  14:49    <DIR>          Teste
+08/10/2019  14:49               395 .gitattributes
+08/10/2019  14:49               696 .gitignore
+08/10/2019  14:49               379 index.htm
+08/10/2019  14:49             1.174 cliente.php
+08/10/2019  14:49             2.594 cliente_detail.php
+08/10/2019  14:49             1.308 pedido.php
+08/10/2019  14:49             4.400 pedido_detail.php
+08/10/2019  14:49             1.176 produto.php
+08/10/2019  14:49             2.604 produto_detail.php
+08/10/2019  15:02                 0 testeDir.txt
+              10 arquivo(s)         14.726 bytes
+               4 pasta(s)   627.071.967.232 bytes dispon°veis
